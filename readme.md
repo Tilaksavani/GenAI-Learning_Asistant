@@ -8,7 +8,7 @@ Teaching Assistant is designed to provide instant assistance based on the conten
 
 ### Project Architecture
 
-![Project Architecture](https://github.com/tilaksavani/learningAssistant/raw/main/images/architecture.png)
+![Project Architecture](https://github.com/Tilaksavani/GenAI-Learning_Asistant/blob/main/images/architecture.png)
 
 
 ## How it Works
@@ -41,7 +41,7 @@ Access the Teaching Assistant in your web browser at http://localhost:8501.
 ## 2. Clone Repository, Build, and Run:
 ### Clone the Repository
 ```console
-git clone https://github.com/tilaksavani/learningAssistant
+git clone https://github.com/Tilaksavani/learningAssistant
 ```
 
 ### Navigate to the Project Directory
