@@ -8,7 +8,7 @@ Teaching Assistant is designed to provide instant assistance based on the conten
 
 ### Project Architecture
 
-![Project Architecture](https://github.com/vanshpatelx/learningAssistant/raw/main/images/architecture.png)
+![Project Architecture](https://github.com/tilaksavani/learningAssistant/raw/main/images/architecture.png)
 
 
 ## How it Works
@@ -28,12 +28,12 @@ Ensure you have Docker installed on your machine.
 ## 1. Using Pre-built Docker Image from Docker Hub:
 ### Pull the Docker Image
 ```console
-docker pull vanshpatel/teaching_assistant:1.0.0
+docker pull tilaksavani/teaching_assistant:1.0.0
 ```
 
 ### Run the Docker Container
 ```console
-docker run -p 8501:8501 --env-file .env vanshpatel/teaching-assistant:1.0.0
+docker run -p 8501:8501 --env-file .env tilaksavani/teaching-assistant:1.0.0
 ```
 Access the Teaching Assistant in your web browser at http://localhost:8501.
 
@@ -41,7 +41,7 @@ Access the Teaching Assistant in your web browser at http://localhost:8501.
 ## 2. Clone Repository, Build, and Run:
 ### Clone the Repository
 ```console
-git clone https://github.com/vanshpatelx/learningAssistant
+git clone https://github.com/tilaksavani/learningAssistant
 ```
 
 ### Navigate to the Project Directory
